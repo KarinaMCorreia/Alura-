@@ -1,0 +1,5 @@
+C:\Users\karina\source\repos\Alura\ByteBank\02- ByteBank\bin\Debug\02- ByteBank.exe.config
+C:\Users\karina\source\repos\Alura\ByteBank\02- ByteBank\bin\Debug\02- ByteBank.exe
+C:\Users\karina\source\repos\Alura\ByteBank\02- ByteBank\bin\Debug\02- ByteBank.pdb
+C:\Users\karina\source\repos\Alura\ByteBank\02- ByteBank\obj\Debug\02- ByteBank.exe
+C:\Users\karina\source\repos\Alura\ByteBank\02- ByteBank\obj\Debug\02- ByteBank.pdb
