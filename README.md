@@ -5,7 +5,7 @@ C# parte 2: Introdução à Orientação a Objetos
 
 Aulas
 
-- Nossa primeira classe Ver primeiro vídeo
+- Primeira classe 
 - Tipos
 - Comportamentos de classes
 - Namespace composição e null
